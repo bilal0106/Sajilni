@@ -1,0 +1,16 @@
+/* components/Counter.module.css */
+.counter {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  padding: 5px 10px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.value {
+  min-width: 2rem;
+  text-align: center;
+}
